@@ -18,7 +18,6 @@ if __name__ == "__main__":
     run = HTMLTestRunner_jpg.HTMLTestRunner(title="可以装逼的测试报告",
                                             description="测试用例参考",
                                             stream=open(report_path+"\\result.html", "wb"),
-                                            verbosity=2,
                                             retry=1)
 
     run.run(discover)
