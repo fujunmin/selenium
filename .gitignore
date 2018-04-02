@@ -7,8 +7,8 @@
 #/.idea/
 
 
-test/
-
+/test/
+*.DS_Store
 
 #过滤整个文件夹(根目录下的)
 #/mtk/
