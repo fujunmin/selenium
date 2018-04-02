@@ -6,7 +6,7 @@
 #忽略根目录下的.idea文件夹
 #/.idea/
 
-
+#test
 /test/
 *.DS_Store
 
